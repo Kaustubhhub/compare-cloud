@@ -92,7 +92,7 @@ const ShowTable = () => {
                                     return (
                                         <td className="px-4 py-2 border border-gray-300" key={cloudProvider}>
                                             {services?.map((cloudService: CloudService, index: number) => (
-                                                <div key={index}>
+                                                <div className="py-1 my-1" key={index}>
                                                     <a
                                                         href={cloudService.link}
                                                         target="_blank"
