@@ -12,16 +12,6 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     },
                     {
-                        "service_name": "Amazon EC2 Container Registry",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Amazon EC2 Container Service",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
                         "service_name": "Amazon EC2 Windows",
                         "img_url": "",
                         "redirect_url": ""
@@ -198,6 +188,185 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "gcp",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Virtual Machines (VMs)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud GPUs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud TPUs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "VMware Engine",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Spot VMs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Migration Center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Migrate to Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Deep Learning VM Image",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Shielded VMs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Batch",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "service_type": "Containers",
+        "service_providers": [
+            {
+                "provider_name": "aws",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Amazon EC2 Container Registry",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Amazon EC2 Container Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Kubernetes Service (AKS)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Kubernetes Fleet Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Red Hat OpenShift",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Functions",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Web App for Containers",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Instances",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Service Fabric",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Registry",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Cloud Run",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Kubernetes Engine",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Knative",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Config Connector",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Service Mesh",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Binary Authorization",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Migrate to Containers",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Deep Learning Containers",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -360,6 +529,67 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Cloud Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Memorystore",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Storage Transfer Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Filestore",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Cloud Backup and DR",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "NetApp Volumes",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Transfer Appliance",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Persistent Disk",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Storage for Firebase",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Parallelstore",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Local SSD",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -498,6 +728,82 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Azure Cosmos DB",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Cloud SQL",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "MongoDB Atlas (pay-as-you-go)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Spanner",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "AlloyDB for PostgreSQL",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Bigtable",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Datastore",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Firestore",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Database Migration Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Firebase Realtime Database",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "SQL Server on Google Cloud",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Databricks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Elastic Cloud (Elasticsearch Service)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Bare Metal Solution",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Apache Kafka® & Apache Flink® on Confluent Cloud™",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -741,6 +1047,72 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Cloud Load Balancing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud DNS",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud CDN",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virtual Private Cloud (VPC)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Network Connectivity Center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Spectrum Access System (SAS)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Network Service Tiers",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Connectivity",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Network Intelligence Center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Private Service Connect",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud NAT",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Telecom Network Automation",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -859,6 +1231,117 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Trusted Signing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Google Maps Platform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Shell",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Run",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Gemini Code Assist",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Console",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud SDK",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Scheduler",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Code",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Tasks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Terraform on Google Cloud",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Workstations",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Foundation Toolkit",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Service Mesh",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Functions for Firebase",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Tools for PowerShell",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Gemini Cloud Assist",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Tekton",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Service Catalog",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Personalized Service Health",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Skaffold",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Policy Intelligence",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -1224,6 +1707,62 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Vertex AI platform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Vertex AI Studio",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Vertex AI Agent Builder",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Gemini Code Assist",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Recommendations AI",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Conversational Agents",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Translation AI",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Contact Center as a Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Agent Assist",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Conversational Insights",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -1251,9 +1790,15 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": []
             }
         ]
-    },
+    }
+    ,
     {
         "service_type": "Machine Learning",
         "service_providers": [
@@ -1354,6 +1899,32 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Azure AI Model Catalog",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Vertex AI platform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "AutoML",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Vertex AI Notebooks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Vertex Explainable AI",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -1521,6 +2092,92 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Azure Operator Insights",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "BigQuery",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Looker",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "MongoDB Atlas (pay-as-you-go)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Dataflow",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Pub/Sub",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Dataform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Dataplex",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Dataproc",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Data Fusion",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "BigLake",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Datastream",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Marketing Platform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Earth Engine",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Databricks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Elastic Cloud (Elasticsearch Service)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Telecom Data Fabric",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -1727,6 +2384,182 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Secret Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "reCAPTCHA Enterprise",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Identity",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Security Command Center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Armor",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud IAM",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Security Operations",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Identity-Aware Proxy",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Identity Platform",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Key Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Titan Security Key",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud IDS",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Threat Intelligence",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "VPC Service Controls",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Assured Workloads",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Certificate Authority Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Anti Money Laundering AI",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Firewall",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Confidential Computing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virus Total",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Managed Service for Microsoft Active Directory",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Assured Open Source Software",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Consulting Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Shielded VMs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Access Transparency",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Security Validation",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Attack Surface Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Managed Detection and Response",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Academy",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Digital Threat Monitoring",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Mandiant Incident Response Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Access Context Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Risk Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Web Risk",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -1836,6 +2669,17 @@ const CLOUD_SERVICES = [
                 "provider_logo": "",
                 "services": [
                 ]
+            },
+            {
+                "provider_name": "gcp",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Emersive stream for XR",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -1913,6 +2757,67 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Apigee API Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud APIs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Pub/Sub",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Workflows",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "API Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Tasks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Data Fusion",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Eventarc",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Endpoints",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Application Integration",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Live Stream API",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -1940,6 +2845,11 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": []
             }
         ]
     },
@@ -1968,6 +2878,17 @@ const CLOUD_SERVICES = [
                 "services": [
                     {
                         "service_name": "Azure Communication Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Google Cloud Contact Center AI",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -2005,6 +2926,27 @@ const CLOUD_SERVICES = [
                 "services": [
                     {
                         "service_name": "Microsoft 365",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Google Workspace",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Chrome Enterprise",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Google Workspace Essentials",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -2093,17 +3035,7 @@ const CLOUD_SERVICES = [
                 "provider_logo": "",
                 "services": [
                     {
-                        "service_name": "API Management",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure Cosmos DB",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure Digital Twins",
+                        "service_name": "Azure IoT Hub",
                         "img_url": "",
                         "redirect_url": ""
                     },
@@ -2118,62 +3050,33 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     },
                     {
-                        "service_name": "Azure IoT Hub",
+                        "service_name": "Azure Digital Twins",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Cloud IoT Core",
                         "img_url": "",
                         "redirect_url": ""
                     },
                     {
-                        "service_name": "Azure IoT Operations",
+                        "service_name": "Cloud IoT Device Management",
                         "img_url": "",
                         "redirect_url": ""
                     },
                     {
-                        "service_name": "Azure Functions",
+                        "service_name": "Cloud Pub/Sub",
                         "img_url": "",
                         "redirect_url": ""
                     },
                     {
-                        "service_name": "Azure Machine Learning",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure Maps",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure SQL Edge",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure Stream Analytics",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Notification Hubs",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Windows 10 IoT Core Services",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Windows for IoT",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Logic Apps",
-                        "img_url": "",
-                        "redirect_url": ""
-                    },
-                    {
-                        "service_name": "Azure Sphere",
+                        "service_name": "Google Cloud Functions",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -2202,6 +3105,11 @@ const CLOUD_SERVICES = [
             },
             {
                 "provider_name": "azure",
+                "provider_logo": "",
+                "services": []
+            },
+            {
+                "provider_name": "google",
                 "provider_logo": "",
                 "services": []
             }
@@ -2235,6 +3143,11 @@ const CLOUD_SERVICES = [
                 "provider_name": "azure",
                 "provider_logo": "",
                 "services": []
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": []
             }
         ]
     },
@@ -2262,6 +3175,11 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": []
             }
         ]
     },
@@ -2283,7 +3201,13 @@ const CLOUD_SERVICES = [
                 "provider_name": "azure",
                 "provider_logo": "",
                 "services": []
+            },
+            {
+                "provider_name": "google",
+                "provider_logo": "",
+                "services": []
             }
         ]
     }
+
 ]
