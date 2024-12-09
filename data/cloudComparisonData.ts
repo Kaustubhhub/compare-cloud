@@ -82,6 +82,122 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Compute Fleet",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Quantum",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Spot Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Spring Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure VMware Solution",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Batch",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Linux Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "SQL Server on Azure Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Static Web Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virtual Machine Scale Sets",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Virtual Desktop",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Windows Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Dedicated Host",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure VM Image Builder",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Kubernetes Service (AKS)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Functions",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Instances",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Service Fabric",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Modeling and Simulation Workbench",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -158,6 +274,92 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Managed Lustre",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Backup",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Lake Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Share",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Files",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Storage Actions",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure NetApp Files",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Blob Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Box",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Disk Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Confidential Ledger",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Elastic SAN",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Queue Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Storage Accounts",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Storage Explorer",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Container Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -214,6 +416,92 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Managed Redis",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Cache for Redis",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Factory",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Database for MariaDB",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Database for MySQL",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Database for PostgreSQL",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Database Migration Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure SQL",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure SQL Database",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure SQL Edge",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure SQL Managed Instance",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "SQL Server on Azure Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Table Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Managed Instance for Apache Cassandra",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Confidential Ledger",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Cosmos DB",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -241,6 +529,37 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "AWS Server Migration Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Database Migration Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Migrate",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Site Recovery",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Cost Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Box",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -287,6 +606,137 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Elastic Load Balancing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Application Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Bastion",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure DDoS Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure DNS",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure ExpressRoute",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Firewall",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Orbital Ground Station",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Route Server",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Private 5G Core",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Communications Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Operator 5G Core",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Front Door",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Network Function Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Virtual Network Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure NAT Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Programmable Connectivity",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Private Link",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Firewall Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Content Delivery Network",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Network Watcher",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Traffic Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virtual Network",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Virtual WAN",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "VPN Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Web Application Firewall",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -338,6 +788,77 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "AWS X-Ray",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "App Configuration",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure DevOps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure DevTest Labs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Pipelines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "SDKs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Visual Studio",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Visual Studio Code",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Load Testing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Dev Box",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Deployment Environments",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Playwright Testing",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Managed Confidential Consortium Framework (CCF)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Trusted Signing",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -413,6 +934,147 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Microsoft Copilot in Azure",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Automation",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Advisor",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Defender External Attack Surface Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Backup",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Blueprints",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Lighthouse",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Managed Applications",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Migrate",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Mobile App",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Monitor",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Policy",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Resource Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Resource Manager templates",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Service Health",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Site Recovery",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Cloud Shell",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Cost Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Azure portal",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Network Watcher",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Traffic Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Automanage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Resource Mover",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Purview",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Chaos Studio",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Managed Grafana",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Update management center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -459,6 +1121,37 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Media Player",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Content Delivery Network",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Content Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Encoding",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Live and On-Demand Streaming",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -480,6 +1173,57 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "AI Anomaly Detector",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Bot Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Search",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Video Indexer",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Custom Vision",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Language",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Translator",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Content Safety",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Immersive Reader",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -492,6 +1236,17 @@ const CLOUD_SERVICES = [
                 "services": [
                     {
                         "service_name": "AWS Ground Station",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Orbital Ground Station",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -553,6 +1308,52 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "AWS Translate",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Machine Learning",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Databricks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Open Datasets",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Data Science Virtual Machines",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure OpenAI Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Personalizer",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Operator Call Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Model Catalog",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -619,6 +1420,107 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "AWS Lake Formation",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Analysis Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Explorer",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Factory",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Lake Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Data Share",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Databricks",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Stream Analytics",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Synapse Analytics",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Data Catalog",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Data Lake Analytics",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Event Hubs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "HDInsight",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Power BI Embedded",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Graph Data Connect",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Chaos Studio",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Fabric",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Purview",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure HDInsight on Azure Kubernetes Service (AKS)",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Operator Insights",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -714,6 +1616,117 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Microsoft Entra ID",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Entra Domain Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Active Directory B2C",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Entra External ID",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Entra Verified ID",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Defender for Cloud",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Defender External Attack Surface Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Bastion",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure DDoS Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Dedicated HSM",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Firewall",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Firewall Manager",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Front Door",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Information Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Sentinel",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Key Vault",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure confidential ledger",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "VPN Gateway",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Web Application Firewall",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Azure Attestation",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Microsoft Copilot for Security",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -740,6 +1753,67 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "API Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "App Configuration",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "App Service",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Search",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Maps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure AI Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "App Center",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Communication Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Operator 5G Core",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Operator Call Protection",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Notification Hubs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -755,6 +1829,12 @@ const CLOUD_SERVICES = [
                         "img_url": "",
                         "redirect_url": ""
                     }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
                 ]
             }
         ]
@@ -797,6 +1877,42 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Service Bus",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Queue Storage",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Event Grid",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Logic Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Event Hubs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Durable Functions",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -809,6 +1925,17 @@ const CLOUD_SERVICES = [
                 "services": [
                     {
                         "service_name": "AWS Application Cost Profiler",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Cost Management + Billing",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -830,6 +1957,17 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Amazon SES",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Communication Services",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -860,6 +1998,17 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Microsoft 365",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -877,6 +2026,17 @@ const CLOUD_SERVICES = [
                     },
                     {
                         "service_name": "Amazon AppStream 2.0",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Virtual Desktop",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -927,6 +2087,97 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "API Management",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Cosmos DB",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Digital Twins",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure IoT Central",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure IoT Edge",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure IoT Hub",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure IoT Operations",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Functions",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Machine Learning",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Maps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure SQL Edge",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Stream Analytics",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Notification Hubs",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Windows 10 IoT Core Services",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Windows for IoT",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Logic Apps",
+                        "img_url": "",
+                        "redirect_url": ""
+                    },
+                    {
+                        "service_name": "Azure Sphere",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
             }
         ]
     },
@@ -948,6 +2199,11 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": []
             }
         ]
     },
@@ -974,6 +2230,11 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": []
             }
         ]
     },
@@ -986,6 +2247,17 @@ const CLOUD_SERVICES = [
                 "services": [
                     {
                         "service_name": "AWS Support",
+                        "img_url": "",
+                        "redirect_url": ""
+                    }
+                ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": [
+                    {
+                        "service_name": "Azure Support",
                         "img_url": "",
                         "redirect_url": ""
                     }
@@ -1006,6 +2278,11 @@ const CLOUD_SERVICES = [
                         "redirect_url": ""
                     }
                 ]
+            },
+            {
+                "provider_name": "azure",
+                "provider_logo": "",
+                "services": []
             }
         ]
     }
