@@ -1,4 +1,4 @@
-const CLOUD_SERVICES = [
+export const CLOUD_SERVICES = [
     {
         "service_type": "Compute",
         "service_providers": [
@@ -190,7 +190,7 @@ const CLOUD_SERVICES = [
                 ]
             },
             {
-                "provider_name": "gcp",
+                "provider_name": "google",
                 "provider_logo": "",
                 "services": [
                     {
@@ -2671,7 +2671,7 @@ const CLOUD_SERVICES = [
                 ]
             },
             {
-                "provider_name": "gcp",
+                "provider_name": "google",
                 "provider_logo": "",
                 "services": [
                     {
